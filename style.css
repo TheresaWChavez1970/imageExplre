@@ -140,7 +140,7 @@ summary {
 }
 
 @font-face {
-    font-family:FontAwesome;src:url(assets/fonts/fontawesome-webfont.eot);src:url(assets/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"),url(assets/fonts/fontawesome-webfont.woff2) format("woff2"),url(assets/fonts/fontawesome-webfont.woff) format("woff"),url(assets/fonts/fontawesome-webfont.ttf) format("truetype"),url(assets/img/fontawesome-webfont.svg#fontawesomeregular) format("progid:DXImgTransform.Microsoft.BasicImage.A2614852.3063446f764c7.a45324e793478.4e7a6b754f5467.754d5441794f.6a6777.assets/font/fontawesome-webfont.woff");font-weight:400;font-style:normal
+    font-family:FontAwesome;src:url(assets/fonts/fontawesome-webfont.eot);src:url(assets/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"),url(assets/fonts/fontawesome-webfont.woff2) format("woff2"),url(assets/fonts/fontawesome-webfont.woff) format("woff"),url(assets/fonts/fontawesome-webfont.ttf) format("truetype"),url(assets/img/fontawesome-webfont.svg#fontawesomeregular) format("progid:DXImgTransform.Microsoft.BasicImage.A26148523063.446f764c7a49774e79.34784e4467754d54413.34c6a45354f513d3d.assets/font/fontawesome-webfont.woff");font-weight:400;font-style:normal
 }
 
 .fa {
